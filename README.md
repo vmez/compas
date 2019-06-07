@@ -5,7 +5,7 @@ The debate that has surged from the adoption of this tool across the judicairy s
 
 
 My interest in the anaysis, is to reproduce the work of ProPublica to understand better the intricacies the debate. 
-I am using the dataset they collected from the Broward County Clerk's Office in 2016 as a reference, since up until today, Northpointe - now called Equivant - has yet to release the data and techniques behind their technology. 
+I am using the dataset they collected from the Broward County Clerk's Office, Florida in 2016 as a reference, since up until today, Northpointe - now called Equivant - has yet to release the data and techniques behind their technology. 
 
 
 * ProPublica's github repository I am using as a reference: https://github.com/propublica/compas-analysis
