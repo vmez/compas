@@ -8,6 +8,9 @@ My interest in the anaysis, is to reproduce the work of ProPublica to understand
 I am using the dataset they collected from the Broward County Clerk's Office in 2016 as a reference, since up until today, Northpointe - now called Equivant - has yet to release the data and techniques behind their technology. 
 
 
+
+
+
 If you haven't read the story, here are useful resources:
 - https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
 - https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
