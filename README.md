@@ -11,7 +11,7 @@ I am using the dataset they collected from the Broward County Clerk's Office in 
 * ProPublica's github repository I am using as a reference: https://github.com/propublica/compas-analysis
 
 
-If you haven't read the story, here are useful resources:
+### If you haven't read the story, here are useful resources:
 - https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
 - https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
 - https://www.themarshallproject.org/2015/08/04/the-new-science-of-sentencing
