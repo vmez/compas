@@ -1,4 +1,4 @@
-## compas
+## Intricacies of holding algorithms into account.
 This repository will explore ProPulica's analysis on Northpointe's tool called COMPAS, used for profiling of correctional offenders by their likelihood to reoffend.
 
 The debate that has surged from the adoption of this tool across the judicairy system worldwide is quite fascinating. To me, it brings the issue of how as a society, we see machine learning as the potential to address our problems; forgeting perhaps, there are humans behind this technology. And that humans, afterall, are the ones who ultimately make decisions. 
