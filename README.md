@@ -19,7 +19,6 @@ I am using the dataset they collected from the Broward County Clerk's Office in 
 - https://www.nytimes.com/2017/10/26/opinion/algorithm-compas-sentencing-bias.html
 - https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/
 - https://epic.org/algorithmic-transparency/crim-justice/
-
-And Northpointe's rebuttal: https://www.documentcloud.org/documents/2998391-ProPublica-Commentary-Final-070616.html
+- And Northpointe's rebuttal: https://www.documentcloud.org/documents/2998391-ProPublica-Commentary-Final-070616.html
 
 ...there are many more.
